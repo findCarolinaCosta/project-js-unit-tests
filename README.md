@@ -240,4 +240,5 @@ A estrutura deste código e deste objeto já foi definida e você irá implement
 * Será validado se a função `createMenu` retorna os dados esperados.
 * Será validado se o teste da função `createMenu` verifica cada um dos retornos da função e se estes retornos têm o comportamento esperado.
 
-Requisitos do projeto By Trybe.
+Requisitos do projeto By Trybe. 
+[Link do projeto original](https://github.com/tryber/sd-015-b-project-js-unit-tests/tree/carolina-pereira-da-costa-unit-tests)
